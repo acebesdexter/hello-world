@@ -1,0 +1,25 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0255-3B46
+
+ Directory of C:\Users\Dexter Acebes\Desktop\PYTHON
+
+09/12/2020  02:29 pm    <DIR>          .
+09/12/2020  02:29 pm    <DIR>          ..
+10/09/2020  04:49 pm               869 AmericanToEuropeanDate.py
+09/09/2020  04:57 pm                39 bacon.txt
+09/09/2020  06:02 pm               341 capitalsquiz_01-02-1990.txt
+09/09/2020  06:22 pm                26 delicious
+22/10/2020  05:19 pm               334 example.html
+09/09/2020  04:41 pm                26 hello.txt
+09/09/2020  05:01 pm                17 mydata.bak
+09/09/2020  05:00 pm                45 mydata.dat
+09/09/2020  05:01 pm                17 mydata.dir
+09/09/2020  06:37 pm    <DIR>          RandomQuiz
+09/09/2020  06:34 pm    <DIR>          RandomQuizCopy2
+07/08/2020  03:40 pm         7,537,069 selenium-java-3.141.59.zip
+09/09/2020  04:52 pm               174 sonata.txt
+09/12/2020  02:29 pm                 0 test1.txt
+              12 File(s)      7,538,957 bytes
+               4 Dir(s)  56,762,757,120 bytes free
+
+hala!!! bakit may laman to??
